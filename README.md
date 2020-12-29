@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Checkout my [page](djpugh.github.io)
+Checkout my [page](https://djpugh.github.io)
